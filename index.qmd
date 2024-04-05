@@ -1,0 +1,62 @@
+---
+title: "Blog personal"
+subtitle: "Ingeniero mecánico Nicolás Peñaranda Mikán"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+lang: "es"
+---
+
+::: {style="text-align: justify"}
+# Nicolás Peñaranda Mikán
+
+![](images/IMG_20211018_164537.jpg){fig-align="center" width="159"}
+
+Mi nombre es *Nicolás Andrés Peñaranda Mikán*, nací el 3 de diciembre de 1997, Riohacha, La Guajira. Soy [ingeniero mecánico](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mec%C3%A1nica), egresado de la [Universidad de La Guajira](https://uniguajira.edu.co/) en el año 2022. Soy amante del café y las motos, en especial las motos de turismo.
+
+## Formación académica
+
+-   Ingeniero mecánico. [Universidad de La Guajira](https://uniguajira.edu.co/) (2022)
+
+-   Maestría en ingeniería mecánica. [Universidad del Norte](https://www.uninorte.edu.co/) (En curso)
+
+## Formación complementaria
+
+-   Diplomado en docencia universitaria. [Universidad de La Guajira](https://uniguajira.edu.co/) (2023).
+
+-   Códigos y normas de soldadura. Curso de 40 horas. Servicio Nacional de Aprendizaje (SENA). 2018.
+
+-   Diseño y montaje de sistemas solares fotovoltaicos básicos. Curso de 80 horas. Servicio Nacional de Aprendizaje (SENA). 2018.
+
+-   Diseño asistido por computador, Solidworks nivel básico. Curso de 40 horas. Servicio Nacional de Aprendizaje (SENA). 2017.
+
+## Experiencia investigativa
+
+Realicé una pasantía en el macroproyecto [Energética 2030](https://www.energetica2030.co/p4-poligeneracion-biomasa/) en la Universidad Nacional de Colombia, facultad de minas, sede Medellín en el año 2021. El tema tratado en dicha pasantía fue *Valoración de extractivos a partir de biomasa*
+
+## Experiencia laboral
+
+Actualmente me desempeño como coordinador del laboratorio de `Integridad y procesos de manufactura` en el [Sistema Integral de Laboratorios de la Universidad de La Guajira](https://uniguajira.edu.co/universidad-de-la-guajira/silab/)
+
+## Pasatiempos
+
+Entre los pasatiempos que me gusta hacer en mis tiempos libres, se encuentra el consumo de contenido multimedia en plataforma como:
+
+-   [Youtube](https://www.youtube.com/)
+
+-   [Netflix](https://www.netflix.com/co/)
+
+-   [Star+](https://www.starplus.com/es-co?cid=DSS-Search-Google-71700000086505444-&s_kwcid=AL!8468!3!651883096702!b!!g!!star%20plus.com&gad_source=1&gclid=EAIaIQobChMI14eeuJiphQMV0IZaBR1aygDcEAAYASAAEgIqO_D_BwE&gclsrc=aw.ds)
+
+-   [Disney+](https://www.disneyplus.com/es-co?cid=DSS-Search-Google-71700000112295590-&s_kwcid=AL!8468!3!665166946015!e!!g!!disney&gad_source=1&gclid=EAIaIQobChMI5vKgxZiphQMVl7FaBR3zyQbbEAAYASAAEgINGPD_BwE&gclsrc=aw.ds)
+
+Entre otras, en donde me gusta ver vlogs de viajes, motos, tecnología, series, películas, documentales, partidos de futbol, carreras de fórmula 1 por mencionar algunos.
+
+Otra de las actividades que me gusta realizar en mis tiempos libres es jugar fútbol, pasar tiempo con amigos, familia y mi pareja. También, me gusta usar redes sociales como [Pinterest](https://co.pinterest.com/), [Instagram](https://www.instagram.com/) y [Tiktok](https://www.tiktok.com/es/).
+:::

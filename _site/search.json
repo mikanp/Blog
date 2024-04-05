@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog personal",
+    "section": "",
+    "text": "Mi nombre es Nicolás Andrés Peñaranda Mikán, nací el 3 de diciembre de 1997, Riohacha, La Guajira. Soy ingeniero mecánico, egresado de la Universidad de La Guajira en el año 2022. Soy amante del café y las motos, en especial las motos de turismo.\n\n\n\nIngeniero mecánico. Universidad de La Guajira (2022)\nMaestría en ingeniería mecánica. Universidad del Norte (En curso)\n\n\n\n\n\nDiplomado en docencia universitaria. Universidad de La Guajira (2023).\nCódigos y normas de soldadura. Curso de 40 horas. Servicio Nacional de Aprendizaje (SENA). 2018.\nDiseño y montaje de sistemas solares fotovoltaicos básicos. Curso de 80 horas. Servicio Nacional de Aprendizaje (SENA). 2018.\nDiseño asistido por computador, Solidworks nivel básico. Curso de 40 horas. Servicio Nacional de Aprendizaje (SENA). 2017.\n\n\n\n\nRealicé una pasantía en el macroproyecto Energética 2030 en la Universidad Nacional de Colombia, facultad de minas, sede Medellín en el año 2021. El tema tratado en dicha pasantía fue Valoración de extractivos a partir de biomasa\n\n\n\nActualmente me desempeño como coordinador del laboratorio de Integridad y procesos de manufactura en el Sistema Integral de Laboratorios de la Universidad de La Guajira\n\n\n\nEntre los pasatiempos que me gusta hacer en mis tiempos libres, se encuentra el consumo de contenido multimedia en plataforma como:\n\nYoutube\nNetflix\nStar+\nDisney+\n\nEntre otras, en donde me gusta ver vlogs de viajes, motos, tecnología, series, películas, documentales, partidos de futbol, carreras de fórmula 1 por mencionar algunos.\nOtra de las actividades que me gusta realizar en mis tiempos libres es jugar fútbol, pasar tiempo con amigos, familia y mi pareja. También, me gusta usar redes sociales como Pinterest, Instagram y Tiktok."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html#formación-académica",
+    "href": "index.html#formación-académica",
+    "title": "Blog personal",
+    "section": "",
+    "text": "Ingeniero mecánico. Universidad de La Guajira (2022)\nMaestría en ingeniería mecánica. Universidad del Norte (En curso)"
+  },
+  {
+    "objectID": "index.html#formación-complementaria",
+    "href": "index.html#formación-complementaria",
+    "title": "Blog personal",
+    "section": "",
+    "text": "Diplomado en docencia universitaria. Universidad de La Guajira (2023).\nCódigos y normas de soldadura. Curso de 40 horas. Servicio Nacional de Aprendizaje (SENA). 2018.\nDiseño y montaje de sistemas solares fotovoltaicos básicos. Curso de 80 horas. Servicio Nacional de Aprendizaje (SENA). 2018.\nDiseño asistido por computador, Solidworks nivel básico. Curso de 40 horas. Servicio Nacional de Aprendizaje (SENA). 2017."
+  },
+  {
+    "objectID": "index.html#experiencia-investigativa",
+    "href": "index.html#experiencia-investigativa",
+    "title": "Blog personal",
+    "section": "",
+    "text": "Realicé una pasantía en el macroproyecto Energética 2030 en la Universidad Nacional de Colombia, facultad de minas, sede Medellín en el año 2021. El tema tratado en dicha pasantía fue Valoración de extractivos a partir de biomasa"
+  },
+  {
+    "objectID": "index.html#experiencia-laboral",
+    "href": "index.html#experiencia-laboral",
+    "title": "Blog personal",
+    "section": "",
+    "text": "Actualmente me desempeño como coordinador del laboratorio de Integridad y procesos de manufactura en el Sistema Integral de Laboratorios de la Universidad de La Guajira"
+  },
+  {
+    "objectID": "index.html#pasatiempos",
+    "href": "index.html#pasatiempos",
+    "title": "Blog personal",
+    "section": "",
+    "text": "Entre los pasatiempos que me gusta hacer en mis tiempos libres, se encuentra el consumo de contenido multimedia en plataforma como:\n\nYoutube\nNetflix\nStar+\nDisney+\n\nEntre otras, en donde me gusta ver vlogs de viajes, motos, tecnología, series, películas, documentales, partidos de futbol, carreras de fórmula 1 por mencionar algunos.\nOtra de las actividades que me gusta realizar en mis tiempos libres es jugar fútbol, pasar tiempo con amigos, familia y mi pareja. También, me gusta usar redes sociales como Pinterest, Instagram y Tiktok."
+  }
+]
